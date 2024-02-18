@@ -36,13 +36,13 @@ class LinkedList:
             current = current.next
         print("<------>")
 
-if __name__ == "__main__":
-    linked_list = LinkedList(1)
-    linked_list.append(2)
-    linked_list.append(3)
-    linked_list.display()  
-    linked_list.remove()
-    linked_list.display()  
+
+linked_list = LinkedList(1)
+linked_list.append(2)
+linked_list.append(3)
+linked_list.display()  
+linked_list.remove()
+linked_list.display()  
 # 4. პითონის Stack.py ფაილში შექმენილია Stack კლასი, დაწერეთ კლასის ფუნქციები (push და pop)
 class Stack:
     def __init__(self):
