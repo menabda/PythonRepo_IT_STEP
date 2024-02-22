@@ -1,0 +1,32 @@
+[
+  {
+    "ROW_ID": 1,
+    "name": "Giorgi",
+    "mark": 100,
+    "address": {
+      "city": "Tbilisi",
+      "street": "Saburtalo"
+    },
+    "grade": "A"
+  },
+  {
+    "ROW_ID": 2,
+    "name": "Luka",
+    "mark": 87,
+    "address": {
+      "city": "Ozurgeti",
+      "street": "Farnavaz Mefe"
+    },
+    "grade": "B"
+  },
+  {
+    "ROW_ID": 3,
+    "name": "Gocha",
+    "mark": 79,
+    "address": {
+      "city": "Tbilisi",
+      "street": "Varketili 3a, 321"
+    },
+    "grade": "C"
+  }
+]
